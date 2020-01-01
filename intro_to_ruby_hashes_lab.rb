@@ -46,5 +46,5 @@ def update_counting_hash(hash, key)
   else
     hash[key] = num
   end
-  p hash[key]
+  
 end
